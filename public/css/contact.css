@@ -61,7 +61,7 @@ p {
 }
 
 .btn {
-    margin-top: 50px;
+    margin-top: 40px;
     color: black;
     background-color: white;
     border-radius: 0.5rem;
@@ -70,6 +70,8 @@ p {
     align-items: center;
     font-size: 19px;
     transition: 0.7s;
+    cursor: pointer;
+
 }
 
 .btn:hover {
@@ -78,6 +80,24 @@ p {
 
 }
 
+.btn-2 {
+    margin-top: 10px;
+    color: black;
+    background-color: white;
+    border-radius: 0.5rem;
+    border: none;
+    padding: 10px;
+    align-items: center;
+    font-size: 19px;
+    transition: 0.7s;
+    cursor: pointer;
+}
+
+.btn-2:hover {
+    color: white;
+    background-color: black;
+
+}
 /* ////////FORM///// */
 
 
